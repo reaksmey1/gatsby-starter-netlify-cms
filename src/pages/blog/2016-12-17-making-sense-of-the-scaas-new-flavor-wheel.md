@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Making sense sfssdfsd
+title: Making sense another testing
 date: 2016-12-17T15:04:10.000Z
 description: Hello this is testing
 featuredpost: false
